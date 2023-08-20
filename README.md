@@ -15,3 +15,9 @@ Creates a single PDF by merging folder of PDFs together.
 
 ## rename_files
 Renames files in a folder sequentially
+
+## video DL
+Scripts for downloading youtube videos
+~~video_dl.py~~
+~~new_vid_dl.py~~ 
+ytdl_format.py
