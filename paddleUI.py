@@ -32,7 +32,7 @@ def clear_all():
     listbox.delete(0, tk.END)
 
 def transcribe_file():
-    # In the future, your transcribe function will go here
+    
     if listbox.curselection():
         progress_window = tk.Toplevel(root)
         progress_window.title(" ")
