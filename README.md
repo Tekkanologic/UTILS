@@ -1,6 +1,12 @@
 # UTILS
 
-A bunch of utility scripts
+A bunch of utility scripts written in Python.
+- heicToJpeg
+- img2pdf
+- pdfmerge
+- rename_files
+- videoDL
+- uber receipts
 
 
 ## heicToJpeg
