@@ -21,3 +21,6 @@ Scripts for downloading youtube videos
 ~~video_dl.py~~
 ~~new_vid_dl.py~~ 
 ytdl_format.py
+
+## Uber receipts and uber merge
+Scripts I created to manage uber receipts, automatically merge into one document and calculates today spend and contributions.
